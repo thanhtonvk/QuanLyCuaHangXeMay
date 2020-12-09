@@ -1,0 +1,13 @@
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.csprojAssemblyReference.cache
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.AssemblyInfoInputs.cache
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.AssemblyInfo.cs
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.csproj.CoreCompileInputs.cache
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.exe
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.deps.json
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.runtimeconfig.json
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.runtimeconfig.dev.json
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.dll
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.pdb
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.dll
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.pdb
+C:\Users\TonDz\source\repos\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\netcoreapp3.1\QuanLyCuaHangXeMay.genruntimeconfig.cache
